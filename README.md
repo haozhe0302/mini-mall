@@ -1,7 +1,7 @@
 # mini-mall
 A self-practice backend Java project using SpringBoot + MySql. 
 
-Currently concentrating on completing the logistics system component.
+Currently concentrating on completing the Orders Management System.
 
 Planning to deploy on Azure.
 
