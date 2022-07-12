@@ -1,5 +1,5 @@
 # mini-mall
-A self-practice backend Java project using SpringBoot + MySql. 
+A self-practice backend Java project using SpringBoot + MyBatis + MySql. 
 
 Currently concentrating on completing the Orders Management System.
 
